@@ -9,7 +9,7 @@ from datetime import datetime
 
 # Обязательное к заполнению!
 bot_key = 'PUT KEY' # Telegram API key
-weather_key = 'PUT KEY' # OpenWeather API key
+weather_key = 'PUT KEY' # AccuWeather API key
 admin_username = '@ergle_manul' # ник в Telegram тех. админа
 
 logging.basicConfig(level=logging.INFO)
